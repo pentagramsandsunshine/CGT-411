@@ -1,7 +1,7 @@
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.by import By
+from selenium.webdriver.common.by import Keys
 import time
 
 options = webdriver.ChromeOptions()
